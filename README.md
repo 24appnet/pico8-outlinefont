@@ -16,7 +16,7 @@ outline("abcdefg",0,0,8,12)
 
 ## Screenshot
 
-![](https://raw.githubusercontent.com/24appnet/pico8-outlinefont/master/screenshot.gif)
+![](https://raw.githubusercontent.com/24appnet/pico8-outlinefont/master/screenshot.png)
 
 ## Cartridge
 
